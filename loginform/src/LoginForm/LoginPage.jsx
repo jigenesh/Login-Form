@@ -26,11 +26,11 @@ const LoginPage = () => {
                  
               
                   <div className="inputbox">
-                    <input type="text" placeholder="StudentID" required/><FaUser className="icons"/><br></br>
+                    <input type="text" placeholder="StudentID" required/><FaUser className="icons"></FaUser><br></br>
                   </div>
     
                   <div className="inputbox">
-                    <input type="password" placeholder="password" required/><FaLock className="icons" /><br></br>
+                    <input type="password" placeholder="password" required/><FaLock className="icons" ></FaLock><br></br>
                   </div>
                 </div>
                
